@@ -1,0 +1,19 @@
+[
+    {
+        "id": "109d7811.c76478",
+        "type": "function",
+        "z": "57d31bf8.9b8f94",
+        "name": "",
+        "func": "msg.payload=msg.payload.text;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 400,
+        "y": 220,
+        "wires": [
+            [
+                "21830c5b.0beab4",
+                "de9893b.c725a7"
+            ]
+        ]
+    }
+]
